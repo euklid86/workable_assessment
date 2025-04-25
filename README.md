@@ -52,7 +52,7 @@ project-root/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://your-repo-url.git
+   git clone https://github.com/euklid86/workable_assessment.git
    cd your-repo-name
    ```
 
