@@ -53,7 +53,6 @@ project-root/
 
    ```bash
    git clone https://github.com/euklid86/workable_assessment.git
-   cd your-repo-name
    ```
 
 2. **Configure Your Environment**
