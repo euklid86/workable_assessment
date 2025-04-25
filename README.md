@@ -9,8 +9,8 @@ This project provides an API endpoint that allows you to upload CSV files contai
 
 - Upload CSV files to import candidates
 - Automatically map candidates to job titles via Workable shortcodes
-- Optionally posts candidates to the talent pool
-- Logs all actions and errors
+- Optionally post candidates to the talent pool
+- Log all actions and errors
 - Simple and extensible API architecture
 
 ---
