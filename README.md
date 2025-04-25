@@ -17,7 +17,7 @@ This project provides an API endpoint that allows you to upload CSV files contai
 
 ## 🚀 Technologies Used
 
-- **PHP 7.4+**
+- **PHP 8.2**
 - **cURL**
 - **Workable API v3**
 - **PostgreSQL/MySQL (optional, if extended to log to DB)**
