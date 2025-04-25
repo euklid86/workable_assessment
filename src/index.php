@@ -15,7 +15,7 @@
 
                     <div class="mb-3">
                         <label for="file" class="form-label">Choose file</label>
-                        <input class="form-control" type="file" id="file" name="file">
+                        <input class="form-control" type="file" id="file" name="file" accept=".csv, .xlsx .xls">
                     </div>
 
                     <div class="form-check mb-3">
